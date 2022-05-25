@@ -1,0 +1,22 @@
+.but1, 
+.but2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.but1{
+    background-color: black;
+    color: white;
+}
+
+.but2{
+    background-color: yellow;
+}
+
+
+
+
+
+***The first element**: a black background and white text
+* **The second element**: a yellow background
+* **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback 
